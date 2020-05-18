@@ -21,4 +21,3 @@ kathara \
 docker-ce 
 RUN apt clean
 WORKDIR /root
-COPY . /root
