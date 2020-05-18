@@ -1,1 +1,1 @@
-# test-enviroment
+# test-environment
